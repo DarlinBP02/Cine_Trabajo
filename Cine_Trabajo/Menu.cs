@@ -6,5 +6,9 @@ namespace Cine_Trabajo
 {
     class Menu
     {
+        public virtual void menu()
+        {
+
+        }
     }
 }
