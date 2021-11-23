@@ -17,7 +17,7 @@
   <Class Name="Cine_Trabajo.Sala">
     <Position X="4" Y="3.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAEAAAAEAAAACBAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Sala.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -45,7 +45,7 @@
   <Class Name="Cine_Trabajo.Asiento">
     <Position X="2.25" Y="2.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>IAAAAABAAAAABAAAAAAAAAAAAAAAAABAAAAAAAAAAAQ=</HashCode>
       <FileName>Asiento.cs</FileName>
     </TypeIdentifier>
   </Class>
