@@ -13,6 +13,7 @@ namespace Cine_Trabajo
         }
         //Atributos
         int fila, columnas;
+
         int[,] asiento = new int[20, 40];
 
         //METODO PARA ELEGIR ASIENTO
