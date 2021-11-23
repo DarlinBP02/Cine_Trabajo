@@ -6,6 +6,7 @@ namespace Cine_Trabajo
 {
     class Sala
     {
-       
+
     }
 }
+
