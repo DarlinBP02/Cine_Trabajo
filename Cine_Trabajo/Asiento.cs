@@ -20,9 +20,9 @@ namespace Cine_Trabajo
         public void asientos()
         {
 
-            Console.WriteLine("************");
+            Console.WriteLine("********************************");
             Console.WriteLine("*     Seleccione el asiento    *");
-            Console.WriteLine("************");
+            Console.WriteLine("********************************");
             Console.WriteLine("Ingrese el numero de fila (1-20)");
             fila = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese el numero de columnas (1-40)");

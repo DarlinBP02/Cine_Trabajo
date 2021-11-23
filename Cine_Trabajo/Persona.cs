@@ -13,9 +13,9 @@ namespace Cine_Trabajo
         public void Ingresenombre()
         {
 
-            Console.WriteLine("*********");
+            Console.WriteLine("*************************");
             Console.WriteLine("*   Ingrese su Nombre   *");
-            Console.WriteLine("*********");
+            Console.WriteLine("*************************");
             nombre = Console.ReadLine();
         }
         //METODO PARA MOSTRAR NOMBRE

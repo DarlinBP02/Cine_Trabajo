@@ -14,17 +14,17 @@ namespace Cine_Trabajo
         //Metodo PARA VER Sala
         public void sala()
         {
-            Console.WriteLine("\t\t *************");
-            Console.WriteLine("\t\t **      SALAS DISPONIBLES      **");
-            Console.WriteLine("\t\t *************");
+            Console.WriteLine("\t\t ***************************************");
+            Console.WriteLine("\t\t **          SALAS DISPONIBLES        **");
+            Console.WriteLine("\t\t ***************************************");
             Console.WriteLine("\t\t * 1- SALA 1                           *");
             Console.WriteLine("\t\t * 2- SALA 2                           *");
             Console.WriteLine("\t\t * 3- SALA 3                           *");
             Console.WriteLine("\t\t * 4- SALA 4                           *");
             Console.WriteLine("\t\t * 5- SALA 5                           *");
-            Console.WriteLine("\t\t *************");
-            Console.WriteLine("\t\t **     Seleccione la Sala      **");
-            Console.WriteLine("\t\t *************");
+            Console.WriteLine("\t\t ***************************************");
+            Console.WriteLine("\t\t **          Seleccione la Sala       **");
+            Console.WriteLine("\t\t ***************************************");
 
         }
         //METODO PARA SELECCIONAR OPCION DE SALA
