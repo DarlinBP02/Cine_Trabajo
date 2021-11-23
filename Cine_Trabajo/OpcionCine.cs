@@ -7,6 +7,7 @@ namespace Cine_Trabajo
     //APLICACION DE HERENCIA
     class OpcionCine : MenuCine
     {
+        //ATRIBUTO
         private string peli;
         public OpcionCine()
         {

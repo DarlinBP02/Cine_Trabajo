@@ -6,6 +6,7 @@ namespace Cine_Trabajo
 {
     class Menu
     {
+        //METODO PARA POLIMORFISMO
         public virtual void menu()
         {
 

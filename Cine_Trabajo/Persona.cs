@@ -6,7 +6,7 @@ namespace Cine_Trabajo
 {
     class Persona
     {
-        //PROPIEDAD
+        //ATRIBUTOS
         private string nombre;
 
         //METODO DE INGRESAR NOMBRE

@@ -4,8 +4,9 @@ using System.Text;
 
 namespace Cine_Trabajo
 {
-    class Comida
+    class Comida : OpcionCine
     {
+        //ATRIBUTO
         public int opc = 0, op = 0;
         public Comida()
         {
@@ -62,6 +63,7 @@ namespace Cine_Trabajo
                     break;
             }
         }
+        //METODO
         public void menuadicional()
         {
             //APLICACION DE LISTA
